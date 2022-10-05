@@ -1,0 +1,6 @@
+public struct Teapot {
+    public private(set) var text = "Hello, World!"
+
+    public init() {
+    }
+}
